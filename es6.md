@@ -178,6 +178,7 @@ Promise.all(···)
 Promise.race(···)
 Promise.reject(···)
 Promise.resolve(···)
+Promise.allSettled(···)
 ```
 
 ### Async-await
